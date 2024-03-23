@@ -5,3 +5,8 @@
 .rollCallImage{
     border-radius: 50px;
 }
+
+.rollCallButton{
+    background-color: rgb(121, 81, 215, 0.4);
+    margin: 5px;
+}
